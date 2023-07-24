@@ -10,8 +10,12 @@ System.out.println(MY_CONSTANT3);
 // + - * / % 
 long a=12;
 short b=10;
-int d=21;
-long f=d;
+long d=21L;
+// a 2 !@ ?
+char ch='a';
+
+int f=ch;
+
 System.out.println(f);
 
 
