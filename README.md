@@ -4,6 +4,7 @@ public static void main (string[] args) {
 int a=15;
 int b=16;
 // == != > < >= <=
-System.out.println(a==b);
+boolean result=a==b
+System.out.println(result);
 }
 }
