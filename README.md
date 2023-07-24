@@ -8,7 +8,7 @@ System.out.println(MY_CONSTANT3);
 
 //operator
 // + - * / % 
-float a=12f;
+double a=12;
 short b=10;
 
 
