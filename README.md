@@ -17,7 +17,8 @@ byte s=15;
 short f=s;
 
 long ssr=2000000000000L;
-int issr=(int)ssr;
+double dd=145.123;
+int issr=(int)dd;
 
 
 float dssr=ssr;
