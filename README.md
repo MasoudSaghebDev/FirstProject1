@@ -3,10 +3,10 @@ static fainal int MY_CONSTANT3=88;
 public static void main (string[] args) {
 double a=25.25;
 int b=5;
-System .out.println(Math.E);
-double result=Math.sin();
+
+double result=Math.round(a);
 
 
- // System.out.println(result);
+  System.out.println(result);
 }
 }
