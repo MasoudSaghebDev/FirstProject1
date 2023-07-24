@@ -8,9 +8,9 @@ System.out.println(MY_CONSTANT3);
 
 //operator
 // + - * / % 
-int a=12;
-int b=10;
-int c;
+float a=12f;
+float b=10;
+float c;
 c=a/b;
 
 System.out println(c);
