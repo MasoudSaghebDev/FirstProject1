@@ -16,10 +16,10 @@ char ch='!';
 byte s=15;
 short f=s;
 
-int ssr=10002;
-double dssr=ssr;
+int ssr=2000000000;
+float dssr=ssr;
 
-System.out.println(f);
+System.out.println(dssr);
 
 
 System.out println(a/b);
