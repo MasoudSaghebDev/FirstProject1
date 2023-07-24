@@ -17,9 +17,12 @@ byte s=15;
 short f=s;
 
 long ssr=2000000000000L;
+int issr=(int)ssr;
+
+
 float dssr=ssr;
 
-System.out.println(dssr);
+System.out.println(issr);
 
 
 System.out println(a/b);
