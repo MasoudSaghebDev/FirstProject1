@@ -16,6 +16,9 @@ char ch='!';
 byte s=15;
 short f=s;
 
+int ssr=10002;
+double dssr=ssr;
+
 System.out.println(f);
 
 
