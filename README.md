@@ -7,9 +7,12 @@ System.out.println(MY_CONSTANT);
 System.out.println(MY_CONSTANT3);
 
 //operator
-// + - * / % 
-long a=12;
-short b=10;
+// + - * / %
+double a=15;
+double b=0;
+double result=a/b;
+
+
 long d=21L;
 // a 2 !@ ?
 char ch='!';
