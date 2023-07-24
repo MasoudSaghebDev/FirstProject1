@@ -8,11 +8,10 @@ System.out.println(MY_CONSTANT3);
 
 //operator
 // + - * / % 
-short a=12;
+float a=12f;
 short b=10;
-int c;
-c=a%b;
 
-System.out println(c);
+
+System.out println(a/b);
 }
 }
