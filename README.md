@@ -12,7 +12,7 @@ long a=12;
 short b=10;
 long d=21L;
 // a 2 !@ ?
-char ch='a';
+char ch='!';
 
 int f=ch;
 
