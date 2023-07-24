@@ -10,6 +10,9 @@ System.out.println(MY_CONSTANT3);
 // + - * / % 
 long a=12;
 short b=10;
+int d=21;
+long f=d;
+System.out.println(f);
 
 
 System.out println(a/b);
