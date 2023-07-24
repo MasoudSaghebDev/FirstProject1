@@ -8,7 +8,7 @@ System.out.println(MY_CONSTANT3);
 
 //operator
 // + - * / %
-double a=15;
+double a=0;
 double b=0;
 double result=a/b;
 
