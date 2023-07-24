@@ -16,7 +16,7 @@ char ch='!';
 byte s=15;
 short f=s;
 
-int ssr=2000000000;
+long ssr=2000000000000L;
 float dssr=ssr;
 
 System.out.println(dssr);
