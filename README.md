@@ -8,8 +8,8 @@ System.out.println(MY_CONSTANT3);
 
 //operator
 // + - * / % 
-int a=10;
-int b=12;
+int a=12;
+int b=10;
 int c;
 c=a/b;
 
