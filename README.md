@@ -13,8 +13,8 @@ short b=10;
 long d=21L;
 // a 2 !@ ?
 char ch='!';
-
-int f=ch;
+byte s=15;
+short f=s;
 
 System.out.println(f);
 
