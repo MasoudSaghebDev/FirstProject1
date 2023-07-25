@@ -5,7 +5,11 @@ int a=15;
 int b=16;
 // == != > < >= <=
 // &&=>and ||=>or
-boolean result=a<=b && a>b;
-System.out.println(result);
+ // boolean result=a<=b && a>b;
+ // & | ~ ^ 
+ int c=10;
+ // 1-7 10-17 
+ c=017;
+System.out.println(c);
 }
 }
