@@ -10,7 +10,7 @@ int b=16;
  int c=10;
  // 1-7 10=>a 11=>b 12=>c 13=>d
  // 14=>e 15=>f
- c=0xf1;
+ c=0b1000;
 System.out.println(c);
 }
 }
