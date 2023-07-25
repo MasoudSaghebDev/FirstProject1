@@ -9,7 +9,7 @@ int b=16;
  // & | ~ ^ 
  int c=10;
  // 1-7 10-17 
- c=0x10;
+ c=0x15;
 System.out.println(c);
 }
 }
