@@ -1,1 +1,5 @@
-
+public class MainClass{
+public ststic void main (strig[]args){
+System.out.println("Wellcome")
+}
+}
