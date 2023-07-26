@@ -13,5 +13,6 @@ int b=16;
  c=0b1000;
  int d=0b0101;
 System.out.println(c|d);
+System.out.println(Integer.toBinryString(c|d));
 }
 }
