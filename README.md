@@ -11,7 +11,7 @@ int b=16;
  // 1-7 10=>a 11=>b 12=>c 13=>d
  // 14=>e 15=>f
  c=0b1000;
- int d=0b101;
-System.out.println(c&d);
+ int d=0b0101;
+System.out.println(c|d);
 }
 }
