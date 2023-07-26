@@ -12,7 +12,7 @@ int b=16;
  // 14=>e 15=>f
  // >> <<
  c=0b1010;
- int d=c>>2;
+ int d=c<<2;
 System.out.println(d);
 System.out.println(Integer.toBinryString(d));
 }
