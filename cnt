@@ -1,0 +1,11 @@
+public class MainClass{
+    public static void main(String[]args ){
+        int cnt=0;
+        while (true){
+            cnt++;
+        System.out.println("i love you nasoud "+cnt);
+            
+            }
+        
+        }
+    }
