@@ -3,7 +3,7 @@ public class MainClass{
         int cnt=0;
         while (true){
             cnt++;
-        System.out.println("i love you nasoud "+cnt);
+        System.out.println("i love you Man "+cnt);
             
             }
         
